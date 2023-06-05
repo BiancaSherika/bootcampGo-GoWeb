@@ -7,7 +7,9 @@ import (
 
 func main() {
 	r := gin.Default()
-	executations.OlaMundo(r)
-	executations.GetAll(r)
+	r.GET("/ping", executations.OlaMundo)
+	r.GET("/usuarios/GetAll", executations.GetAll)
+	r.GET("/usuarios/:id", executations.GetById)
+	//r.GET("/usuarios/:", executations.GetById)
 	r.Run()
 }
