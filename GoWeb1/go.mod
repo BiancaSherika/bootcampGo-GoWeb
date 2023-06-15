@@ -1,4 +1,4 @@
-module github.com/BiancaSherika/bootcampGo-GoWeb/GoWeb1/manha
+module github.com/BiancaSherika/bootcampGo-GoWeb/GoWeb1
 
 go 1.20
 
