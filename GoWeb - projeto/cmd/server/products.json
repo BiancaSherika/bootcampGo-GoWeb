@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "armario",
+    "Price": 100
+  },
+  {
+    "Id": 2,
+    "Name": "armario",
+    "Price": 0
+  },
+  {
+    "Id": 3,
+    "Name": "armario",
+    "Price": 50
+  },
+  {
+    "Id": 4,
+    "Name": "maquina",
+    "Price": 10
+  },
+  {
+    "Id": 5,
+    "Name": "maquina",
+    "Price": 10
+  },
+  {
+    "Id": 6,
+    "Name": "maquina",
+    "Price": 2
+  },
+  {
+    "Id": 7,
+    "Name": "maquina",
+    "Price": 5
+  },
+  {
+    "Id": 8,
+    "Name": "maquina",
+    "Price": 10
+  }
+]
